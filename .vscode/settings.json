@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "conta-banco/src",
+        "lab-padroes-projeto-spring-main/src/main/java/one/digitalinnovation/gof"
+    ]
+}
